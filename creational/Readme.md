@@ -12,4 +12,4 @@ In simpler terms, creational design patterns help answer questions like:
 
 ### How can you create objects efficiently, especially when creating them is resource-intensive?
 
-Creational design patterns include patterns like `Singleton`, `Factory Method`, `Abstract Factory`,` Builder`, and `Prototype`. Each of these patterns addresses specific challenges related to creating objects in a software application.
+Creational design patterns include patterns like `Singleton`, `Factory Method`, `Abstract Factory`,` Builder`, and `Prototype`.
