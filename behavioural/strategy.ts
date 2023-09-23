@@ -1,4 +1,5 @@
 // STRATEGY PATTERN (BEHAVIORAL)
+
 // allows a client class (HUMAN in this case) to choose an algorithm from a family of algorithms at runtime.
 // The client class (HUMAN) is not aware of the actual algorithm that is chosen to perform the desired operation.
 
